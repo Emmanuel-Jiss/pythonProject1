@@ -55,6 +55,12 @@ li {
     border: 1px solid #00aaff;
 }
 
+#add-button:hover {
+    background-color: #00aaff;
+    color: black;
+    border: 1px solid #00aaff;
+}
+
 #delete-button {
     background-color: transparent;
     color: black;
