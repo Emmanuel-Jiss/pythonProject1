@@ -67,8 +67,20 @@ li {
     border: 1px solid red;
 }
 
+#delete-button:hover {
+    background-color: red;
+    color: black;
+    border: 1px solid red;
+}
+
 #update-button {
     background-color: transparent;
+    color: black;
+    border: 1px solid green;
+}
+
+#update-button:hover {
+    background-color: green;
     color: black;
     border: 1px solid green;
 }
