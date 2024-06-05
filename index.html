@@ -5,6 +5,14 @@
     <title>Shopping List</title>
 </head>
 <body>
+    <link rel="stylesheet" href="/static/css/style.css">
+<div class="container">
+    <h1 id="p1">Shopping List</h1>
+        <form>
+            <input type="text" name="item">
+            <button type="submit" class="button-group" id="add-button">Add</button>
+        </form>
+    </div>
         <script>
         function randomColors() {
           return '#' + Math.floor(Math.random() * 16777215).toString(16);
@@ -14,13 +22,5 @@
           document.getElementById('p1').style.color = randomColors();
         }
     </script>
-    <link rel="stylesheet" href="/static/css/style.css">
-<div class="container">
-    <h1 id="p1">Shopping List</h1>
-        <form>
-            <input type="text" name="item">
-            <button type="submit" class="button-group" id="add-button">Add</button>
-        </form>
-    </div>
 </body>
 </html>
