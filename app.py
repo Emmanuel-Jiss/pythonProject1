@@ -28,12 +28,12 @@ def index():
         db.session.commit()
         return redirect(url_for('index'))
 
-items = Item.query.all()
-return render_template('index.html', items=items)
+    items = Item.query.all()
+    return render_template('index.html', items=items)
 
 #delete items
 @app.route('/delete/<int:item_id>', methods=['POST'])
-def delete_item(item):
+def delete_item(item_id):
     item = Item.query.get_or_404(item_id)
     db.session.delete(item)
     db.session.commit()
@@ -41,7 +41,7 @@ def delete_item(item):
 
 
 @app.route('/update/<int:item_id>', methods=['POST'])
-def update_item(item):
+def update_item(item_id):
     new_item = request.form['new_item']
     item = Item.query.get_or_404(item_id)
     item.name = new_item
