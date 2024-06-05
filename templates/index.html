@@ -6,14 +6,31 @@
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
-<div class="container">
-    <h1 id="p1">Shopping List</h1>
-        <form>
+    <div class="container">
+        <h1 id="p1">Shopping List</h1>
+        <form action="/" method="POST">
             <input type="text" name="item">
             <button type="submit" class="button-group" id="add-button">Add</button>
             <button type="button" class="button-group" id="color-button" onclick="randomize()">Color</button>
         </form>
+        <ul>
+            {% for item in items %}
+            <li>
+                <-- Update Form -->
+                <form>
+                    <input type="text" name="new_item">
+                    <button type="submit" class="button-group" id="update-button">Update</button>
+                </form>
+
+                <-- Delete Form -->
+                <form>
+                    <button type="submit" class="button-group" id="delete-button">Delete</button>
+                </form>
+            </li>
+            {% endfor %}
+        </ul>
     </div>
+
         <script>
         function randomColors() {
           return '#' + Math.floor(Math.random() * 16777215).toString(16);
