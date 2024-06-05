@@ -58,7 +58,7 @@ li {
 #add-button:hover {
     background-color: #00aaff;
     color: black;
-    border: 1px solid #00aaff;
+    border: 5px solid black;
 }
 
 #delete-button {
@@ -69,8 +69,8 @@ li {
 
 #delete-button:hover {
     background-color: red;
-    color: black;
-    border: 1px solid red;
+    color: white;
+    border: 5px solid black;
 }
 
 #update-button {
@@ -81,8 +81,8 @@ li {
 
 #update-button:hover {
     background-color: green;
-    color: black;
-    border: 1px solid green;
+    color: white;
+    border: 5px solid black;
 }
 
 #color-button {
