@@ -5,8 +5,9 @@ body {
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; /* Sets font family */
+    padding: 10px; /* Creates space evenly around element */
 }
 
 input {
@@ -19,6 +20,12 @@ input {
 }
 
 #add-button {
+    background-color: transparent;
+    color: black;
+    border: 1px solid #00aaff;
+}
+
+#color-button {
     background-color: transparent;
     color: black;
     border: 1px solid #00aaff;
