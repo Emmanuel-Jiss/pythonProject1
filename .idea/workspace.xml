@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Finished Add and delete">
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="More fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +209,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717587910066</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixed bug">
+      <option name="closed" value="true" />
+      <created>1717588084749</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717588084750</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Now I Fixed the bug">
+      <option name="closed" value="true" />
+      <created>1717588163349</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717588163349</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Finished the stylesheet">
+      <option name="closed" value="true" />
+      <created>1717588270554</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717588270554</updated>
+    </task>
+    <task id="LOCAL-00020" summary="More fixes">
+      <option name="closed" value="true" />
+      <created>1717588367407</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717588367407</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +256,10 @@
     <MESSAGE value="Lists, lists, lists" />
     <MESSAGE value="Add and delete" />
     <MESSAGE value="Finished Add and delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Add and delete" />
+    <MESSAGE value="Fixed bug" />
+    <MESSAGE value="Now I Fixed the bug" />
+    <MESSAGE value="Finished the stylesheet" />
+    <MESSAGE value="More fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="More fixes" />
   </component>
 </project>

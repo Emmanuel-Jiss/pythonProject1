@@ -10,12 +10,31 @@ h1 {
     padding: 10px; /* Creates space evenly around element */
 }
 
+form {
+    display: inline;
+}
+
 input {
     padding: 6.5px;
 }
 
 #add-form input{
   width: 159px;
+}
+
+ul {
+    list-style-type: none; /* Remove list bullets */
+    padding: 0 5px 0 0;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.bottom-outline {
+    border: none;
+    border-bottom: 2px solid gray;
 }
 
 .button-group {
