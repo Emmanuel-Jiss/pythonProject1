@@ -43,6 +43,14 @@ li {
     cursor: pointer;
 }
 
+.container {
+    background-color: lightblue;
+    border-style: solid;
+    border: 2px solid black;
+    border-radius: 5px;
+    float: right
+}
+
 #color-button {
     background-color: transparent;
     color: black;
