@@ -70,7 +70,7 @@ li {
 #delete-button:hover {
     background-color: red;
     color: white;
-    border: 3px solid grey;
+    animation: slide 0.5s ease-in;
 }
 
 #update-button {
@@ -82,7 +82,7 @@ li {
 #update-button:hover {
     background-color: green;
     color: white;
-    border: 3px solid grey;
+    animation: slide 0.5s ease-in;
 }
 
 #color-button {
