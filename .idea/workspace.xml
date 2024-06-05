@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Lists, lists, lists">
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Add and delete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717584588589</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add and delete">
+      <option name="closed" value="true" />
+      <created>1717585070185</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717585070185</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,17 +217,7 @@
     <MESSAGE value="Added more css styles" />
     <MESSAGE value="Flask is running!" />
     <MESSAGE value="Lists, lists, lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists, lists, lists" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Add and delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add and delete" />
   </component>
 </project>

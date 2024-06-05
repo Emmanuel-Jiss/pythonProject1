@@ -19,14 +19,26 @@ input {
     cursor: pointer;
 }
 
+#color-button {
+    background-color: transparent;
+    color: black;
+    border: 1px solid #00aaff;
+}
+
 #add-button {
     background-color: transparent;
     color: black;
     border: 1px solid #00aaff;
 }
 
-#color-button {
+#delete-button {
     background-color: transparent;
     color: black;
-    border: 1px solid #00aaff;
+    border: 1px solid red;
+}
+
+#color-button {
+    background-color: transparent; /* Button color */
+    color: black; /* Font color */
+    border: 1px solid #00aaff; /* Button border */
 }
