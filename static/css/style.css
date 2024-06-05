@@ -13,6 +13,11 @@ h1 {
 input {
     padding: 6.5px;
 }
+
+#add-form input{
+  width: 159px;
+}
+
 .button-group {
     padding: 8px 20px;
     border-radius: 2px;
@@ -35,6 +40,12 @@ input {
     background-color: transparent;
     color: black;
     border: 1px solid red;
+}
+
+#update-button {
+    background-color: transparent;
+    color: black;
+    border: 1px solid green;
 }
 
 #color-button {
