@@ -58,7 +58,7 @@ li {
 #add-button:hover {
     background-color: #00aaff;
     color: black;
-    border: 5px solid black;
+    animation: slide 2s linear;
 }
 
 #delete-button {
@@ -70,7 +70,7 @@ li {
 #delete-button:hover {
     background-color: red;
     color: white;
-    border: 5px solid black;
+    border: 3px solid grey;
 }
 
 #update-button {
@@ -82,11 +82,20 @@ li {
 #update-button:hover {
     background-color: green;
     color: white;
-    border: 5px solid black;
+    border: 3px solid grey;
 }
 
 #color-button {
     background-color: transparent; /* Button color */
     color: black; /* Font color */
     border: 1px solid #00aaff; /* Button border */
+}
+
+@keyframes slide {
+    0%{
+        border: 1px solid black;
+    }
+    100%{
+        border: 3px solid grey;
+    }
 }
