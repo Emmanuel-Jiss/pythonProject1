@@ -55,7 +55,8 @@ li {
 }
 
 #add-form {
-     margin: auto;
+    margin: auto;
+    padding: 10px;
 }
 
 #color-button {
