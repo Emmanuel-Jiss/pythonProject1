@@ -44,6 +44,7 @@ li {
 }
 
 .container {
+    width: 159px;
     float: right;
     background-color: lightblue;
     border-style: solid;
