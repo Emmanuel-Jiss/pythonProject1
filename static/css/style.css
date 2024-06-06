@@ -64,6 +64,7 @@ li {
 #add-form {
     margin: auto;
     padding: 10px;
+    display: list-item;
 }
 
 #item{
