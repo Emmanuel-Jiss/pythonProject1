@@ -12,6 +12,7 @@ h1 {
 
 form {
     display: inline;
+    list-style-type: none; /* Remove list bullets */
 }
 
 input {
