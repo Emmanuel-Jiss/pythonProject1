@@ -23,6 +23,11 @@ input {
     width: 159px;
 }
 
+#new_item{
+    position: relative;
+    width: 159px;
+}
+
 ul {
     list-style-type: none; /* Remove list bullets */
     padding: 0 5px 0 0;
