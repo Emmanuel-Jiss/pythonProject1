@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 9">
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 9.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,38 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717577357088</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Html fix">
-      <option name="closed" value="true" />
-      <created>1717579052397</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1717579052397</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added crandom colour button">
-      <option name="closed" value="true" />
-      <created>1717579131038</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1717579131038</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added more css styles">
-      <option name="closed" value="true" />
-      <created>1717579217725</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1717579217725</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Added more css styles">
-      <option name="closed" value="true" />
-      <created>1717580238292</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1717580238292</updated>
     </task>
     <task id="LOCAL-00013" summary="Flask is running!">
       <option name="closed" value="true" />
@@ -475,13 +441,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717665681374</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Layout test 9">
+      <option name="closed" value="true" />
+      <created>1717665885744</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1717665885744</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Layout test 9.1">
+      <option name="closed" value="true" />
+      <created>1717666000358</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1717666000358</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Layout test 9.2">
+      <option name="closed" value="true" />
+      <created>1717666022712</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1717666022712</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Layout test 9.3">
+      <option name="closed" value="true" />
+      <created>1717666060964</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1717666060964</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="More hover style" />
-    <MESSAGE value="Hover animations" />
-    <MESSAGE value="Hover animations imporved" />
     <MESSAGE value="Hover animations finalized" />
     <MESSAGE value="Layout" />
     <MESSAGE value="Layout test" />
@@ -504,6 +499,9 @@
     <MESSAGE value="Layout test 8.8" />
     <MESSAGE value="Layout test 8.9" />
     <MESSAGE value="Layout test 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout test 9" />
+    <MESSAGE value="Layout test 9.1" />
+    <MESSAGE value="Layout test 9.2" />
+    <MESSAGE value="Layout test 9.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layout test 9.3" />
   </component>
 </project>
