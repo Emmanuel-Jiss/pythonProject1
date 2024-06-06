@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Fixed container again">
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Added input hover select" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,38 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717577357088</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Test hover style">
-      <option name="closed" value="true" />
-      <created>1717615606910</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1717615606910</updated>
-    </task>
-    <task id="LOCAL-00025" summary="More hover style">
-      <option name="closed" value="true" />
-      <created>1717615969745</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1717615969745</updated>
-    </task>
-    <task id="LOCAL-00026" summary="More hover style">
-      <option name="closed" value="true" />
-      <created>1717616055071</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1717616055071</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Hover animations">
-      <option name="closed" value="true" />
-      <created>1717616483149</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1717616483149</updated>
     </task>
     <task id="LOCAL-00028" summary="Hover animations imporved">
       <option name="closed" value="true" />
@@ -475,14 +441,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717667434672</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Fixed container again again">
+      <option name="closed" value="true" />
+      <created>1717667470001</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667470001</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Added shadow">
+      <option name="closed" value="true" />
+      <created>1717667550708</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667550708</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Fixed shadow">
+      <option name="closed" value="true" />
+      <created>1717667585071</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667585071</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Added input hover select">
+      <option name="closed" value="true" />
+      <created>1717667779352</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667779352</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Layout test 7 fix" />
-    <MESSAGE value="Layout test 8" />
-    <MESSAGE value="Layout test 8.1" />
-    <MESSAGE value="Layout test 8.2" />
     <MESSAGE value="Layout test 8.3" />
     <MESSAGE value="Layout test 8.4" />
     <MESSAGE value="Layout test 8.5" />
@@ -504,6 +498,10 @@
     <MESSAGE value="Removed footer" />
     <MESSAGE value="Fixed container" />
     <MESSAGE value="Fixed container again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed container again" />
+    <MESSAGE value="Fixed container again again" />
+    <MESSAGE value="Added shadow" />
+    <MESSAGE value="Fixed shadow" />
+    <MESSAGE value="Added input hover select" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added input hover select" />
   </component>
 </project>

@@ -20,7 +20,7 @@ input {
 }
 
 input:hover {
-    box-shadow: 5px 5px 5px #33CEFF;
+    box-shadow: 2px 2px 5px #33CEFF;
 }
 
 #add-form input{
