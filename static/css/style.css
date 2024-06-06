@@ -59,7 +59,7 @@ li {
     transform: translate(-50%, -50%);
     background-color: #FAFAFA;
     border-style: solid;
-    border: 2px solid grey;
+    border: 2px solid #ECECEC;
     border-radius: 5px;
 }
 
