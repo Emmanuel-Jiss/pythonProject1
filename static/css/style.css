@@ -54,6 +54,10 @@ li {
     border-radius: 5px;
 }
 
+#add-form {
+     position: relative;
+}
+
 #color-button {
     background-color: transparent;
     color: black;
