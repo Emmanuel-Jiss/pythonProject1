@@ -34,6 +34,7 @@ ul {
 }
 
 li {
+    list-style-type: none; /* Remove list bullets */
     padding-top: 5px;
     padding-bottom: 5px;
 }
