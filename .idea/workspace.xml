@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 8.1">
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 8.5">
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717577357088</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Added Hello World">
-      <option name="closed" value="true" />
-      <created>1717577526617</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1717577526617</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Created basic py shopping list">
-      <option name="closed" value="true" />
-      <created>1717578373950</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1717578373950</updated>
     </task>
     <task id="LOCAL-00003" summary="Built basic front end with basic stylesheet">
       <option name="closed" value="true" />
@@ -459,14 +443,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717664722981</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Layout test 8.1">
+      <option name="closed" value="true" />
+      <created>1717664843025</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664843025</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Layout test 8.2">
+      <option name="closed" value="true" />
+      <created>1717664880503</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664880503</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Layout test 8.3">
+      <option name="closed" value="true" />
+      <created>1717664964479</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664964479</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Layout test 8.4">
+      <option name="closed" value="true" />
+      <created>1717665075592</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1717665075592</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finished Add and delete" />
-    <MESSAGE value="Fixed bug" />
-    <MESSAGE value="Now I Fixed the bug" />
-    <MESSAGE value="Finished the stylesheet" />
     <MESSAGE value="More fixes" />
     <MESSAGE value="More css fixes" />
     <MESSAGE value="DB setup" />
@@ -488,6 +500,10 @@
     <MESSAGE value="Layout test 7 fix" />
     <MESSAGE value="Layout test 8" />
     <MESSAGE value="Layout test 8.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout test 8.1" />
+    <MESSAGE value="Layout test 8.2" />
+    <MESSAGE value="Layout test 8.3" />
+    <MESSAGE value="Layout test 8.4" />
+    <MESSAGE value="Layout test 8.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layout test 8.5" />
   </component>
 </project>
