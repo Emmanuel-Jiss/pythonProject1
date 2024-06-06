@@ -63,6 +63,13 @@ li {
     border-radius: 5px;
 }
 
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
 #add-form {
     margin: auto;
     padding: 10px;
