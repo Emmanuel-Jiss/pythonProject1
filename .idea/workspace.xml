@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 3">
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Layout test 7 fix">
       <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -379,16 +379,58 @@
       <option name="project" value="LOCAL" />
       <updated>1717664178691</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Layout test 4">
+      <option name="closed" value="true" />
+      <created>1717664230151</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664230151</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Layout test 5">
+      <option name="closed" value="true" />
+      <created>1717664307399</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664307399</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Layout test 5 fix">
+      <option name="closed" value="true" />
+      <created>1717664340064</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664340064</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Layout test 6">
+      <option name="closed" value="true" />
+      <created>1717664390211</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664390211</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Layout test 7">
+      <option name="closed" value="true" />
+      <created>1717664426289</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664426289</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Layout test 7 fix">
+      <option name="closed" value="true" />
+      <created>1717664465556</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664465556</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Built basic front end with basic stylesheet" />
-    <MESSAGE value="Fixed bug where css wasn't working" />
-    <MESSAGE value="Html fix" />
-    <MESSAGE value="Added crandom colour button" />
-    <MESSAGE value="Added more css styles" />
-    <MESSAGE value="Flask is running!" />
     <MESSAGE value="Lists, lists, lists" />
     <MESSAGE value="Add and delete" />
     <MESSAGE value="Finished Add and delete" />
@@ -408,6 +450,12 @@
     <MESSAGE value="Layout test" />
     <MESSAGE value="Layout test 2" />
     <MESSAGE value="Layout test 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout test 3" />
+    <MESSAGE value="Layout test 4" />
+    <MESSAGE value="Layout test 5" />
+    <MESSAGE value="Layout test 5 fix" />
+    <MESSAGE value="Layout test 6" />
+    <MESSAGE value="Layout test 7" />
+    <MESSAGE value="Layout test 7 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layout test 7 fix" />
   </component>
 </project>
