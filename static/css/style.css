@@ -23,7 +23,7 @@ input:hover {
     box-shadow: 2px 2px 5px #33CEFF;
 }
 
-input:active {
+input:focus {
     border: 1px solid #00aaff;
     background-color: grey;
 }

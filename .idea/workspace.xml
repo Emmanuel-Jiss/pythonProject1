@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Added input hover select">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2a2025ee-518b-45e8-8d8b-508201c5d688" name="Changes" comment="Active text box effect">
       <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,38 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717577357088</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Hover animations imporved">
-      <option name="closed" value="true" />
-      <created>1717616616322</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1717616616322</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Hover animations imporved">
-      <option name="closed" value="true" />
-      <created>1717616697459</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1717616697459</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Hover animations finalized">
-      <option name="closed" value="true" />
-      <created>1717616782986</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1717616782986</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Layout">
-      <option name="closed" value="true" />
-      <created>1717617101599</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1717617101599</updated>
     </task>
     <task id="LOCAL-00032" summary="Layout">
       <option name="closed" value="true" />
@@ -476,11 +443,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717667779352</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Added input hover select">
+      <option name="closed" value="true" />
+      <created>1717668308163</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1717668308163</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Added input hover select">
+      <option name="closed" value="true" />
+      <created>1717668427723</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1717668427723</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Added input hover select">
+      <option name="closed" value="true" />
+      <created>1717668432574</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1717668432574</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Active text box effect">
+      <option name="closed" value="true" />
+      <created>1717668537661</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1717668537661</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Layout test 8.3" />
     <MESSAGE value="Layout test 8.4" />
     <MESSAGE value="Layout test 8.5" />
     <MESSAGE value="Layout test 8.6" />
@@ -505,6 +503,7 @@
     <MESSAGE value="Added shadow" />
     <MESSAGE value="Fixed shadow" />
     <MESSAGE value="Added input hover select" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added input hover select" />
+    <MESSAGE value="Active text box effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Active text box effect" />
   </component>
 </project>
