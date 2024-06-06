@@ -24,7 +24,8 @@ input:hover {
 }
 
 input:active {
-    border: 2px 2px 5px #33CEFF;
+    border: 1px solid #00aaff;
+    background-color: grey;
 }
 
 #add-form input{
