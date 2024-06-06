@@ -45,6 +45,7 @@ li {
 
 .container {
     width: 600px;
+    height: 300px;
     float: right;
     background-color: lightblue;
     border-style: solid;
