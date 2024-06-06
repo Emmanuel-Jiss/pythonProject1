@@ -58,6 +58,7 @@ li {
 #add-form {
     margin: auto;
     padding: 10px;
+    transform: translate(-50%, -50%);
 }
 
 #color-button {
