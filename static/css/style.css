@@ -19,7 +19,7 @@ input {
 }
 
 #add-form input{
-    position: absolute;
+    position: relative;
     width: 159px;
     padding: 10px;
     top: 50%;
